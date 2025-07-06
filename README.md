@@ -1,85 +1,69 @@
-<h1 align="center">🍽️ Luxurious Restaurant Website</h1>
+<h1 align="center">🏨 Lux Stay - Premium Hotel Booking Website</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" alt="Live Demo">
-  <img src="https://img.shields.io/badge/Responsive-Design-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel">
+  <img src="https://img.shields.io/badge/Responsive%20Design-Yes-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Built%20With-HTML%2C%20CSS%2C%20JS-orange?style=for-the-badge">
 </p>
 
 ---
 
-### 🌟 Live Preview
+## 🌐 Live Website
 
-🔗 [Visit Website](https://luxuriousrestaurant.vercel.app/)
-
----
-
-### ✨ Project Overview
-
-Welcome to the **Luxurious Restaurant** website — a visually appealing, responsive, and interactive landing page designed for premium dining experiences. This project focuses on clean UI/UX, smooth animations, and modern web design trends to attract potential customers.
+🚀 [Explore Lux Stay](https://lux-stay-mu.vercel.app/)
 
 ---
 
-### 🎬 Preview
+## ✨ About Lux Stay
 
-<p align="center">
-  <img src="screenshot.png" alt="Luxurious Restaurant Screenshot" width="800">
-</p>
+**Lux Stay** is a modern, elegant, and fully responsive hotel booking website built for a luxurious hotel experience. It offers smooth animations, beautiful layouts, and an intuitive user interface to enhance the booking process for users.
 
 ---
 
-### 💻 Tech Stack
+## 🎨 Tech Stack
 
 - ✅ **HTML5**
-- ✅ **CSS3** (Modern Layouts, Animations)
+- ✅ **CSS3** (Animations, Responsive Layouts)
 - ✅ **JavaScript**
-- ✅ **Vercel** (for hosting)
+- ✅ **Vercel** for Live Deployment
 
 ---
 
-### 🚀 Features
+## ⚡ Features
 
-✅ Fully Responsive Design  
-✅ Smooth Animations & Hover Effects  
-✅ Attractive Hero Section  
-✅ Navigation Menu  
-✅ Clean & Modern Layout  
-✅ Live Deployment on Vercel  
-
+✨ Fully Responsive Design  
+✨ Smooth Animations & Transitions  
+✨ Clean and Minimal Layout  
+✨ Interactive Navigation  
+✨ Premium Look & Feel  
+✨ Fast Deployment with Vercel  
 
 ---
 
 
-### 🎯 How to Use Locally
+
+## 🚀 Getting Started
+
+To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/LuxuriousRestaurant.git
-cd LuxuriousRestaurant
+git clone https://github.com/astern-t/LuxStay.git
+cd LuxStay
 open index.html
 ```
 
 ---
 
+## ❤️ Connect with Me
 
-### ❤️ Show Support
-
-If you like this project:
-
-⭐ Star this repository  
-🍴 Fork and use it  
-🎉 Share with others  
-
----
-
-### 📧 Contact
-
-For suggestions, feedback, or collaboration:
-
-🔗 [GitHub](https://github.com/astern-t)  
+- GitHub: [https://github.com/astern-t](https://github.com/astern-t)
 
 ---
 
 <p align="center">
-  <b>Thank You for Visiting! 🍽️</b><br>
-  <em>Crafted with passion for great food & elegant design.</em>
+  <b>✨ Experience Luxury, Stay with Style ✨</b><br>
+  <em>Crafted with passion for comfort and elegance.</em>
 </p>
+```
+
+---
