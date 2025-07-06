@@ -26,9 +26,7 @@ Welcome to the **Luxurious Restaurant** website — a visually appealing, respon
   <img src="screenshot.png" alt="Luxurious Restaurant Screenshot" width="800">
 </p>
 
-*💡 Replace `screenshot.png` with your actual screenshot image in the repository.*
 
----
 
 ### 💻 Tech Stack
 
@@ -48,20 +46,9 @@ Welcome to the **Luxurious Restaurant** website — a visually appealing, respon
 ✅ Clean & Modern Layout  
 ✅ Live Deployment on Vercel  
 
----
 
-### 📂 Project Structure
 
-```
-LuxuriousRestaurant/
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-      └── images/
-```
 
----
 
 ### 🎯 How to Use Locally
 
