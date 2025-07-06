@@ -26,7 +26,7 @@ Welcome to the **Luxurious Restaurant** website — a visually appealing, respon
   <img src="screenshot.png" alt="Luxurious Restaurant Screenshot" width="800">
 </p>
 
-
+---
 
 ### 💻 Tech Stack
 
