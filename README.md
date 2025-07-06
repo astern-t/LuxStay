@@ -47,7 +47,7 @@ Welcome to the **Luxurious Restaurant** website — a visually appealing, respon
 ✅ Live Deployment on Vercel  
 
 
-
+---
 
 
 ### 🎯 How to Use Locally
@@ -60,15 +60,6 @@ open index.html
 
 ---
 
-### 🎨 Screenshots
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop Screenshot](screenshot.png) | ![Mobile Screenshot](mobile-screenshot.png) |
-
-*⚡ Add relevant screenshots to your repo for best presentation.*
-
----
 
 ### ❤️ Show Support
 
@@ -84,8 +75,7 @@ If you like this project:
 
 For suggestions, feedback, or collaboration:
 
-📩 [your-email@example.com](mailto:your-email@example.com)  
-🔗 [Your GitHub](https://github.com/your-username)  
+🔗 [GitHub](https://github.com/astern-t)  
 
 ---
 
